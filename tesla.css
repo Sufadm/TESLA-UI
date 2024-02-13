@@ -1,0 +1,152 @@
+body{
+    margin: -1px;
+   
+}
+
+.main{
+    height: 538px;
+    width: 100%px;
+    margin-top: -1px;
+    background-color:transparent;
+    background-image: url(/TESLA/images/UZ2.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo{
+
+    width: 11%;
+    height:59px;
+    background-color: transparent;
+    float: left;
+}
+.logo img{
+    width: 188px;
+    margin-top: 7px;
+    margin-left: 4px;
+    position: fixed;
+}
+.logotext h1{
+margin-left: 34px;
+float: left;
+background-color: rgb(15, 23, 23);
+}
+.nav{
+    width: 89%;
+    height:59px;
+    background-color: transparent;
+    float: left;
+}
+.nav a{
+    color:rgb(0, 0, 0);
+    margin-left: 60px;
+    text-decoration: none;
+    float: left;
+ 
+}
+
+
+.navtext{
+    position: fixed;
+    margin: 20px 1px -19px 32px;
+}
+
+.modely{
+    background-color:transparent;
+    height: 79px;
+    width: 25%;
+    margin-left: 34%;
+    margin-top: 3%;
+    float: left;
+}
+.textmodely h1{
+    margin-top: 4px;
+    margin-left: 80px;
+    font-size: 42px;
+}
+.schedule{
+    background-color: transparent;
+    
+    height: 307px;
+    width: 55%;
+    margin-left: 23%;
+    margin-top: 0%;
+    float: left;
+}
+.scheduleinner h4{
+    margin: -16px  -18px 0px 215px;
+    
+}
+.schedule button{
+    margin-left: 75px;
+    margin-top: 228px;
+    width: 236px;
+    height: 36px;
+    padding-left: 6px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 7px;
+}
+.button2{
+    margin-top: -264px;
+    height: 51px;
+    width: 254px;
+    background-color: transparent;
+    margin-left: 287px;
+    background-color:transparent;
+}
+    
+.button2 button{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+.main2{
+    background-image: url(/TESLA/images/martin-katler-WyGUO1k7AEQ-unsplash.jpg);
+}
+.main3{
+background-image: url(/TESLA/images/robin-van-geenen-zSeZzS1bCq8-unsplash.jpg);
+}
+.main4{
+    background-image: url(/TESLA/images/buuuuuu.jpeg);
+}
+.main5{
+    background-image: url(/TESLA/images/LLLLLLLLLLLLLL.jpg);
+}
+.main6{
+    background-image: url(/TESLA/images/SOLARrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr.jpeg);
+}
+.main6 .scheduleinner{
+    margin-left: 209px;
+    margin-top: -18px;
+}
+.main7{
+    background-image: url(/TESLA/images/vivint-solar-g1QkXQ1EJ-w-unsplash.jpg);
+}
+.main7 .scheduleinner{
+    margin-left: 209px;
+    margin-top: -18px;
+}
+.main8{
+    background-image: url(/TESLA/images/WHITEEEEEEEE22222222.jpeg);
+}
+.main8 .schedule button{
+    margin-left: 235px;
+    margin-top: 210px;
+}
+.main8 .textmodely h1{
+    margin-left: 103px;
+} 
+.last{
+    width: 58%;
+    height: 50px;
+    background-color: transparent;
+    float: left;
+    margin-left: 278px;
+   
+}
+.lasttext a{
+    text-decoration: none;
+    color: grey;
+   margin-left: 19px;
+
+}
+
